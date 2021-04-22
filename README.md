@@ -18,11 +18,11 @@ Workflow
 The data entered in the www.yelp.com site.
 We check whether the url is responding or not by 
 url_1 = 'https://www.yelp.com/biz/yards-brewing-company-philadelphia-3'
-response_1 = requests.get(url_1)
-if response_1.status_code == 200:
-    print("Success")
-else:
-    print("Failure")
+         response_1 = requests.get(url_1)
+         if response_1.status_code == 200:
+         print("Success")
+         else:
+         print("Failure")
 
 We parse the data by using package BeautifulSoup  and using html.parser
 To display the response in a form of word Art we use word cloud to emphasize the most frequent word. The more frequent the word is used the bigger is the size of the word.
