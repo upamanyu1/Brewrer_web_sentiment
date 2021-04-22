@@ -5,10 +5,12 @@ The project consists of comparison of sentiments by customers on the crowd sourc
  
 Data
 The data entered is the name of the restaurant and the location in which we search the business. In the example we search for a Yard Brewing Company in location Philadelphia USA.
+
 ![image](https://user-images.githubusercontent.com/40518603/115687523-e39bb400-a377-11eb-98f8-6657050d1f2b.png)
  
 
 A customer review is as below 
+
 ![image](https://user-images.githubusercontent.com/40518603/115687587-f44c2a00-a377-11eb-89a6-410a70073a56.png)
 
 
